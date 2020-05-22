@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Start Bootstrap - Business Casual](https://startbootstrap.com/template-overviews/business-casual/)
 
 [Business Casual](http://startbootstrap.com/template-overviews/business-casual/) is a multipurpose website theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
@@ -66,3 +67,7 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/gh-pages/LICENSE) license.
+=======
+# elcafetero
+Pagina web elaborado para el local gastronomico El Cafetero de la Ciudad de Ypacarai, utilizando HTML5, CSS, BOOTSTRAP4, JS
+>>>>>>> 60b5b92cd2c18521c2b1318209f5e1d03edca149
